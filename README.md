@@ -1,15 +1,14 @@
-# air-engine
-full-custom game engine for linux(or etc) users
-you can make anything you need
+# WATER-ENGINE
+Fully customizable game engine for any OS.
+You can make anything you want.
 
-UM lisence
+Original project: [air-engine](https://github.com/Day363/air-engine) made by Day363
+Additional contributors:
+- Homo sapiens 1
+- Homo sapiens 2
+- Homo sapiens 3
+- ...
+- +8284446350 Members
 
-made by team earth
--Homo sapiens 1
--Homo sapiens 2
--Homo sapiens 3
-.
-.
-.
-(8284446350 members, 2026. 3. 31.)
-
+# LICENSE
+SANSPPAP License
