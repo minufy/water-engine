@@ -1,4 +1,4 @@
-# WATER-ENGINE
+# Water Engine
 ![logo](Images/logo.png)
 
 Fully customizable game engine for any OS.
@@ -11,10 +11,10 @@ Additional contributors:
 - Homo sapiens 2
 - Homo sapiens 3
 - ...
-- +8284446350 Members
+- +8284446350 More
 
 # Games
 [Games made using Water Engine](https://store.steampowered.com/)
 
-# LICENSE
+# License
 SANSPPAP License
