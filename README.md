@@ -1,8 +1,10 @@
 # Water Engine
+# UNDER CONSTRUCTION
 ![logo](Images/logo.png)
 
-Fully customizable game engine for any OS.
-You can make anything you want.
+Unusable game engine for any OS.
+
+You can't make anything you want.
 
 Original project: [air-engine](https://github.com/Day363/air-engine) made by Day363
 
