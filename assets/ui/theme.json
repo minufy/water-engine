@@ -1,0 +1,53 @@
+{
+  "defaults": {
+    "font": {
+      "name": "galmuri",
+      "size": "12",
+      "regular_path": "../fonts/Galmuri9.ttf",
+      "bold_path": "../fonts/Galmuri11-Bold.ttf"
+    },
+    "colours": {
+      "normal_bg": "#3c3836",
+      "hovered_bg": "#504945",
+      "disabled_bg": "#32302f",
+      "selected_bg": "#458588",
+      "active_bg": "#83a598",
+      "dark_bg": "#282828",
+      "normal_border": "#665c54",
+      "hovered_border": "#928374",
+      "disabled_border": "#504945",
+      "selected_border": "#83a598",
+      "active_border": "#83a598",
+      "link_text": "#83a598",
+      "link_hover": "#8ec07c",
+      "link_selected": "#fabd2f",
+      "text_shadow": "#1d2021",
+      "normal_text": "#ebdbb2",
+      "hovered_text": "#fbf1c7",
+      "selected_text": "#fbf1c7",
+      "disabled_text": "#7c6f64"
+    },
+    "misc": {
+      "shape": "rounded_rectangle",
+      "shape_corner_radius": "6",
+      "border_width": "1",
+      "shadow_width": "0"
+    }
+  },
+  "button": {
+    "font": {
+      "name": "galmuri_button",
+      "size": "12",
+      "bold": "0",
+      "regular_path": "../fonts/Galmuri9.ttf",
+      "bold_path": "../fonts/Galmuri11-Bold.ttf"
+    }
+  },
+  "panel": {
+    "colours": {
+      "dark_bg": "#282828",
+      "normal_bg": "#32302f",
+      "normal_border": "#504945"
+    }
+  }
+}

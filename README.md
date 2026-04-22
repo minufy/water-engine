@@ -1,11 +1,9 @@
 # Water Engine
-# UNDER CONSTRUCTION
 ![logo](Images/logo.png)
 
-Unusable game engine for any OS.
+Python based game engine with Lua scripting.
 
-You can't make anything you want.
-
+# Credits
 Original project: [air-engine](https://github.com/Day363/air-engine) made by Day363
 
 Additional contributors:
@@ -15,8 +13,7 @@ Additional contributors:
 - ...
 - +8284446350 More
 
-# Games
-[Games made using Water Engine](https://store.steampowered.com/)
+Theme: [gruvbox](https://github.com/morhetz/gruvbox)
 
 # License
 SANSPPAP License
